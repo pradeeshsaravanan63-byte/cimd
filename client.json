@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/pradeeshsaravanan63-byte/cimd@main/client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/pradeeshsaravanan63-byte/cimd@d4a60b1bbba9ec20790d7739efc5b6b08f0c2e22/client.json",
   "client_name": "Duty Officer",
   "redirect_uris": ["http://localhost/cb","http://154.57.164.78:38005/agent/cb"],
   "grant_types": ["authorization_code"],
