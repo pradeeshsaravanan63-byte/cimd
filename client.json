@@ -1,7 +1,7 @@
 {
   "client_id": "https://pradeeshsaravanan63-byte.github.io/cimd/client.json",
   "client_name": "Duty Officer",
-  "redirect_uris": ["http://localhost/cb","http://154.57.164.78:38005/agent/cb"],
+  "redirect_uris": ["http://154.57.164.78:38005/agent/cb"],
   "grant_types": ["authorization_code"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none",
