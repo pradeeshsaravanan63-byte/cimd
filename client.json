@@ -1,0 +1,9 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/pradeeshsaravanan63-byte/cimd@main/client.json",
+  "client_name": "Duty Officer",
+  "redirect_uris": ["http://localhost/cb"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "ticket:read ticket:write admin:bulletin admin:settings"
+}
